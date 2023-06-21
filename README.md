@@ -1,6 +1,5 @@
 # CountryNow Rest Client Application!
-
-3 steps are required to run this application.
+4 steps are required to run this application.
 
  - Pull this repository
  - Run mvn clean install in the repository folder
